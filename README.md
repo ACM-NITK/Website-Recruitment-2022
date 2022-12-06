@@ -14,14 +14,17 @@ Please follow these guidelines while you submit the tasks:
 1. Introduction to Git and GitHub ACM KEP Slides: https://docs.google.com/presentation/d/1XJ9FiHflC82QpW0kGNe-GNU-6OFbEIId15E0LKGd8ko/edit?usp=sharing
 2. Introduction to Git and GitHub ACM KEP Recording: https://drive.google.com/file/d/1jz9GTCEydtfYEYQw8Zy8INqsm5TlX7SF/view?usp=sharing
 3. Cheatsheet: https://www.gitkraken.com/learn/git  
+
 **For HTML, CSS and JS:**  
 1. Odin Project: https://www.theodinproject.com/
 2. MDN Documentation: https://developer.mozilla.org/en-US/
 3. HTML5 Cheatsheet: https://www.wpkube.com/html5-cheat-sheet/
 4. CSS3 Cheatsheet: https://htmlcheatsheet.com/css/  
+
 **For React:**  
 1. React Documentation + Tutorial: https://reactjs.org/tutorial/tutorial.html
 2. React Introduction Video by freeCodeCamp: https://www.youtube.com/watch?v=bMknfKXIFA8  
+
 **For Django:**  
 1. Django Documentation: https://docs.djangoproject.com/en/4.1/
 2. Django Tutorial by freeCodeCamp: https://www.youtube.com/watch?v=F5mRW0jo-U4&t=44s
