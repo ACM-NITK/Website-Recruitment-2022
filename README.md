@@ -7,7 +7,7 @@ Please follow these guidelines while you submit the tasks:
 2. The website uses React for front end and Django for back end. Using these technologies is a bonus, however you can do the tasks with technologies you are more familiar with.
 3. Read the contributing guidelines carefully and follow them while submitting the PRs. 
 4. Choose any one of the tasks given. You are free to do more, but remember that quality is better than quantity.
-5. Refer the current ACM NITK and ACM-W NITK websites before attempting the tasks. This will give you a better idea of how to implement them
+5. Refer the current ACM NITK and ACM-W NITK websites before attempting the tasks. This will give you a better idea of how to implement them.
 
 ## Resources:
 **For Git and GitHub:**
