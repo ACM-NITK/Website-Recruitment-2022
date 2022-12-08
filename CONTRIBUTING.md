@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Welcome All! PLease follow the guidelines below to contribute to this repository. Contributing is only allowed via GitHub Pull Requests. If you are not familiar with the process, please read [this guide](https://help.github.com/articles/using-pull-requests/).
+Welcome All! Please follow the guidelines below to contribute to this repository. Contributing is only allowed via GitHub Pull Requests. If you are not familiar with the process, please read [this guide](https://help.github.com/articles/using-pull-requests/).
 
 ## Repositories
 PRs for the respective tasks should be made to the respective repositories. \
