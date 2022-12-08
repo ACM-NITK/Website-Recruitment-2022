@@ -9,6 +9,11 @@ Please follow these guidelines while you submit the tasks:
 4. Choose any one of the tasks given. You are free to do more, but remember that quality is better than quantity.
 5. Refer the current ACM NITK and ACM-W NITK websites before attempting the tasks. This will give you a better idea of how to implement them.
 
+## Quick Links:
+1. [Website](https://acm.nitk.ac.in/)
+2. [Tasks](/Tasks.md)
+3. [Contributing Guidelines](/CONTRIBUTING.md)
+
 ## Resources:
 **For Git and GitHub:**
 1. Introduction to Git and GitHub ACM KEP Slides: https://docs.google.com/presentation/d/1XJ9FiHflC82QpW0kGNe-GNU-6OFbEIId15E0LKGd8ko/edit?usp=sharing
