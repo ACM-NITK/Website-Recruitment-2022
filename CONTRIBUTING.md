@@ -21,3 +21,6 @@ We recommend you follow the ["fork-and-pull" Git workflow](https://github.com/su
 7. Open a PR in our repository and give a detailed description of the PR along with the task so that we can efficiently review the changes.
 
 <B>Note:</B> Make sure you resolve any merge conflicts before submitting your pull request!
+
+Here are some **important** guidleines to follow for this rec task:  
+Once you make a PR to any of the above repositories after completing the task, make a PR to this repository. The PR should be named in this format: `yourrollnumber-typeoftaskyoutook-tasknumber` for example, `201IT247-frontend-1`. The PR to this repository should contain a Markdown file (.md) with the same name as the PR. In this file, include your name, phone number and roll number, along with the link to the PR you made for the task, screenshots of the output (if applicable) and a small explanation on how you implemented it.
