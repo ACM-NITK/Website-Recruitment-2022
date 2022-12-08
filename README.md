@@ -10,7 +10,7 @@ Please follow these guidelines while you submit the tasks:
 5. Refer the current ACM NITK and ACM-W NITK websites before attempting the tasks. This will give you a better idea of how to implement them.
 
 ## Quick Links:
-1. [Website](https://acm.nitk.ac.in/)
+1. [Website](https://nitk.acm.org/)
 2. [Tasks](/Tasks.md)
 3. [Contributing Guidelines](/CONTRIBUTING.md)
 
