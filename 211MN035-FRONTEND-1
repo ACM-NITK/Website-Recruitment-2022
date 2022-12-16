@@ -1,0 +1,18 @@
+NAME- Prashant kumar choudhary
+Roll number- 211mn035
+PHONE NUMBER- 9352071105
+link: "https://github.com/Prashant-3103/ACM-Website-Frontend/tree/main/211mn035%20acm%20task"
+* i did the front end task using html, css, javascript, bootstrap.
+* i made the page responsive to differetnt devices using bootstrap
+* i made the team section of acm , the header contains a toogle down section.
+inside the toogle down section  therse is a navbar which has the acm logo with title,
+down it there is an snother navbar which has the section such as different sigs, home, with a dropdown.
+then our team section is there with an image 
+the body contains the "cards", in which , card body, card footer. card header is there. tje cards are made using bootsrap.
+the card has animation such a when hovered over it the colour changes and it appears to be above the rest of these
+the cards are creadted inside the row section in which theree coloumns are created.
+the cards has image, one dropdown button which has the emal, and linkedln link of the members.
+the footer section of the page contains various buttons , font awesome icons of the social media handle of nitk,
+the more button as javascript function in it when clicked the text turns as less, and its a toogle so when clicked the text appears.
+the dark butto has javascript involved in it, when clicked the text turns light and the backgroud turns dark and vice versa
+the top arrow button to extreme right of the page has javascript which takes you to the top of the page.
